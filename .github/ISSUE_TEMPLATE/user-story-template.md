@@ -2,7 +2,7 @@
 name: User story template
 about: User story for project
 title: "[USER STORY] Story"
-labels: User Story
+labels: user-story
 assignees: ''
 
 ---
